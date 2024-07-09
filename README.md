@@ -24,3 +24,6 @@ The Tableau visualization (`Netflix.twb`) complements the EDA notebook by presen
 - `Netflix-Visualization.twbx`: Tableau workbook file with visualizations.
 - `data/`: Directory containing the Netflix dataset (`netflix1.csv`).
 - `README.md`: This file, providing an overview of the repository and instructions.
+
+**Overview Dashboard**: Summarizes key metrics and trends in the Netflix dataset.
+  (https://github.com/Archana-Jay/Netflix-Exploratory-Data-Analysis/blob/main/Netflix%20Dashboard.png)
