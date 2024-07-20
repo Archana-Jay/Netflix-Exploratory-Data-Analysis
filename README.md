@@ -27,3 +27,6 @@ The Tableau visualization (`Netflix.twb`) complements the EDA notebook by presen
 
 **Overview Dashboard**: Summarizes key metrics and trends in the Netflix dataset.
   (https://github.com/Archana-Jay/Netflix-Exploratory-Data-Analysis/blob/main/Netflix%20Dashboard.png)
+
+![image](https://github.com/user-attachments/assets/7eae6d30-4069-464c-b01f-4d62bdb60f4e)
+  
